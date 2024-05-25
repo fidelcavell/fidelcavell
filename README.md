@@ -36,7 +36,8 @@
 <h2 align="left" style="color:white;" >🔥 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fidelcavell&theme=dracula&show_icons=true" alt="stats graph"  />
+ <img src="https://github-readme-stats.vercel.app/api?username=fidelcavell&theme=dracula&show_icons=true" alt="stats graph" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidelcavell&layout=compact&theme=dracula" height="195" alt="most language stats graph" />
 </div>
 
 ###
