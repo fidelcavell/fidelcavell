@@ -2,8 +2,8 @@
 
 ###
 
-<p align="left">I'm Fidel Cavell, and I passionate to work as an Android developer from Indonesia 🇮🇩 ⚡.</p>
-<p>🚀 Currently, I'm pursuing a degree in Information Technology 📚, and I have a strong passion for Mobile Development especially on Android Development 🌱.</p>
+<p align="left">I'm Fidel Cavell, and I passionate to work as an Application developer.</p>
+<p>🚀 Currently, I'm pursuing a degree in Information Technology 📚, and I have a strong passion for Software Development especially on Mobile Development 🌱.</p>
 <p>If you're interested, you can check out my portfolio on Github and DM me on Linkedin to collaborate! 📱📫👀</p>
 
 ###
@@ -14,7 +14,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter,firebase,vscode,idea,postman,git,github,figma,laravel,php,mysql,tailwind,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,dart,flutter,firebase,vscode,idea,postman,git,github,figma,laravel,php,mysql,tailwind,bootstrap,gitlab,java,postgres,react,spring,ts&theme=dark" />
   </a>
  
 </div>
